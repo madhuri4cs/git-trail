@@ -1,1 +1,5 @@
- name is riya
+<<<<<<< HEAD
+ name is kia
+=======
+name is kia
+>>>>>>> mynewbranch
